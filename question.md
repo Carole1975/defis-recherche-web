@@ -23,7 +23,9 @@ Copyleft: Progamme ou autre oeuvre, libre ainsi que toutes les versions modifié
 - Qui est Grace Hopper ? C'est une informaticienne américaine et rear admiral de la marine américaine. Conceptrice du premier compilateur (A-O System) et du language COBOL. (https://fr.wikipedia.org/wiki/Grace_Hopper)
 
 
-- Qu'est-ce que Qwant ?
+- Qu'est-ce que Qwant ? C'est un moteur de recherche français lancé en version définitive le 4 juillet 2013.
+
+
 - Qui est Steve Wozniak ?
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
