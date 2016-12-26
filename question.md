@@ -20,7 +20,9 @@ Copyleft: Progamme ou autre oeuvre, libre ainsi que toutes les versions modifié
 - Que sont les Creatives Commons ? Se sont des contrats-type ou des licences pour la mise à disposition d'oeuvres en ligne.(http://creativecommons.fr/licences/)
 
 
-- Qui est Grace Hopper ?
+- Qui est Grace Hopper ? C'est une informaticienne américaine et rear admiral de la marine américaine. Conceptrice du premier compilateur (A-O System) et du language COBOL. (https://fr.wikipedia.org/wiki/Grace_Hopper)
+
+
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
