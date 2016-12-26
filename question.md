@@ -14,8 +14,12 @@
 
 
 - Que sont le copyright et le copyleft ? Copyright: Droit exclusif réservé à l'auteur d'exploiter commercialement son oeuvre.
-Copyleft:  
-- Que sont les Creatives Commons ?
+Copyleft: Progamme ou autre oeuvre, libre ainsi que toutes les versions modifiées. (https://forum.ubuntu-fr.org/viewtopic.php?id=39233) 
+
+
+- Que sont les Creatives Commons ? Se sont des contrats-type ou des licences pour la mise à disposition d'oeuvres en ligne.(http://creativecommons.fr/licences/)
+
+
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
