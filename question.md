@@ -1,11 +1,20 @@
-- Par qui, quand, pourquoi et où a été inventé Internet ?
-- Quelle est la différence entre le Web et Internet ?
-- Qu’est-ce que cela :
-- 8.8.8.8
-- 192.168.0.1
-- 255.255.255.0
-- 127.0.0.1
-- Que sont le copyright et le copyleft ?
+- Par qui, quand, pourquoi et où a été inventé Internet ? A la demande (1960) des autorités militaire Arpanet voit le jour en 1969. En 1989, par TIM Berners-Lee. (http://www.jaitoutcompris.com/questions/qui-a-invente-internet-12.php)
+
+
+- Quelle est la différence entre le Web et Internet ?Internet est le réseau informatique mondial. Le web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens.(https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)
+
+
+- 8.8.8.8 C'est un DNS.(ttps://korben.info/dns-google.html)
+
+- 192.168.0.1 C'est une adresse http:// chez certains fournisseurs. C'est la façon la plus simple d'accéder à la box. (http://www.commentcamarche.net/faq/8102-192-168-1-1-192-168-0-1-comment-y-acceder)
+
+- 255.255.255.0 Masque sous réseau le plus courant permettant aux ordinateurs ayant une adresse IP ayant 3 premiers octets identiques de communiquer ensemble.(http://www.vulgarisation-informatique.com/masque-sous-reseau.php)
+
+- 127.0.0.1 Adresse IP non routable.(http://adresseip.vpndock.com/c-est-quoi-127-0-0-1/)
+
+
+- Que sont le copyright et le copyleft ? Copyright: Droit exclusif réservé à l'auteur d'exploiter commercialement son oeuvre.
+Copyleft:  
 - Que sont les Creatives Commons ?
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
